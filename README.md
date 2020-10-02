@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-Internship
-Projects related to Data Science Internship
+Tasks related to Data Science & Machine Learning Internship
